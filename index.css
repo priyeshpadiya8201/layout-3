@@ -1,0 +1,51 @@
+.left_top
+{
+    position: fixed;
+    bottom: 0px;
+    right: 20px;
+    background-color: rgba(6, 6, 6, 0.562);
+    color: white;
+    padding-left: 100px;
+    padding-right: 0px;  
+    padding-top: 40px;
+    padding-bottom: 30px;
+    position:relative;
+    font-family: monospace;
+
+
+}
+.logo
+{
+    position:absolute;
+    width: 40px; 
+    height: 10px;
+    background-color:#3CB9D7;
+    margin-top: 0px;
+    right: 675px;
+}
+.right_top
+{
+  position: absolute;
+  bottom: -180px;
+  right: 20px;
+  background-color: rgba(255, 255, 255, 0.149);
+  color: white;
+  padding-left: 64%;
+  padding-top: 22px;
+  padding-right: 70px;
+  padding-bottom: 180px;
+  direction: rtl;
+  font-size: 20px;
+}
+.left_heder_footer
+{
+  position: absolute;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+  right: 00px;
+  background-color: rgba(255, 255, 0, 0.337);
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom:10px;
+}
